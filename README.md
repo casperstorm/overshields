@@ -1,6 +1,6 @@
 # Overshields
 
-Overshields is a fork of the abboned addon DerangementShieldMeters by Derangement.
+Overshields is a fork of the abandoned addon DerangementShieldMeters by Derangement.
 Ever wonder how much shield is still left, several hits after you cast Power Word: Shield on someone with full health, or use Death Strike to heal yourself as a tank?
 Overshields will provice permanent feedback on total shielding amounts regardless of whether the shielded person's HP is full or not.
 
