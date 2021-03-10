@@ -1,7 +1,7 @@
-## Interface: 90002
+## Interface: 90005
 ## Title: Overshields
 ## Author: Casper Rogild Storm
-## Version: v1.0.0
+## Version: v1.0.1
 ## Notes: Simple addon to improve the default UI's damage prevention bars (like those shown for Power Word: Shield) so they always tell how much prevention is left, even when at full HP.
 
 Overshields.lua
